@@ -16,7 +16,7 @@
 
 5. 1inch有自己的internal swap routing protocol, 跟1inch有什么区别？
 
-答：
+乐平答：没有找到internal swap routing protocol这个协议。
 
 6. 什么用户在什么情况下会使用你的产品？
 
@@ -24,7 +24,7 @@
 
 7. Avalanche 可不可以接？ 
 
-答：
+乐平答：就现在Avalanche的文档看来，理论上是可以接入的。
 
 8. 路由协议会不会有兼容上的问题？
 
